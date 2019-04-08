@@ -10,6 +10,6 @@ def fizzbuzz(int)
     "Fizz"
   else int
     nil
-  binding.pry  
+binding.pry  
   end  
 end  
